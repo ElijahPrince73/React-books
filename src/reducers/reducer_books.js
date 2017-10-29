@@ -4,5 +4,5 @@ export default function () {
     {title: 'another book'},
     {title: 'Book1'},
     {title: 'Book2'}
-  ]
+  ];  
 }
